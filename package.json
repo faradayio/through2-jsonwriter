@@ -1,0 +1,31 @@
+{
+  "name": "through2-jsonwriter",
+  "version": "0.0.1",
+  "description": "A simple transform stream that stringifies JSON",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/faradayio/through2-jsonwriter.git"
+  },
+  "keywords": [
+    "json",
+    "line",
+    "stringify",
+    "encode",
+    "writer",
+    "jsonwriter",
+    "stream",
+    "transform",
+    "through",
+    "through2"
+  ],
+  "author": "Tristan Davies <tristan@faraday.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faradayio/through2-jsonwriter/issues"
+  },
+  "homepage": "https://github.com/faradayio/through2-jsonwriter",
+  "dependencies": {
+    "through2": "^1.1.1"
+  }
+}
